@@ -114,4 +114,8 @@ h2 {
   .container {
     max-width: 1440px;
   }
+
+  .sm-button:last-child {
+  padding-bottom: 30px;
+}
 }
